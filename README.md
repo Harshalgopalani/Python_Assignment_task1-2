@@ -1,5 +1,5 @@
 # Python_Assignment_task1-2
-Assignment submission for tutedude online python course. Task 1 and Task 2. (Harshal gopalani)
+Assignment submission for tutedude online python course. Task 1 and Task 2. (Harshal Gopalani)(harshalgopalani@gmail.com)
 
 # Python Assignment 1 - Basic Python Concepts
 
@@ -16,3 +16,7 @@ A script that:
 - Takes the user's first and last name as input.
 - Concatenates them into a full name.
 - Displays a personalized greeting.
+
+
+Harshal Gopalani
+Harshalgopalani@gmail.com
